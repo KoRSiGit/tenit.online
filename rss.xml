@@ -6,6 +6,26 @@
     <description>I'm a young journalist aiming to build notes that spark joy. I collect notes about fun stuff, and sometimes write it down.</description>
     
         <item>
+          <title>Снежинки, которых мы не знаем</title>
+          <description>Интересные факты о снежинках.</description>
+          <link>https://tenit.online/snowflakes/</link>
+          <pubDate>2022-02-06T00:00:00.000Z</pubDate>
+          <category term="Физика" /><category term="Интересное" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tenit.online/images/posts/snowflakes/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://tenit.online/images/posts/snowflakes/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>Самые неприхотливые создания на Земле</title>
+          <description>Обзор возможностей интересного существа</description>
+          <link>https://tenit.online/tardigrades/</link>
+          <pubDate>2022-02-04T00:00:00.000Z</pubDate>
+          <category term="Биология" /><category term="Интересное" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tenit.online/images/posts/tardigrades/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://tenit.online/images/posts/tardigrades/cover.jpg"/>
+        </item>
+      
+        <item>
           <title>Цель моего Журнала</title>
           <description>Зачем я создал Журнал</description>
           <link>https://tenit.online/purpose-of-this-blog/</link>
@@ -13,26 +33,6 @@
           <category term="Мета" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tenit.online/images/posts/purpose-of-this-blog/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://tenit.online/images/posts/purpose-of-this-blog/cover.jpg"/>
-        </item>
-      
-        <item>
-          <title>Самые неприхотливые создания на Земле</title>
-          <description>Обзор возможностей интересного существа</description>
-          <link>https://tenit.online/tardigrades/</link>
-          <pubDate>2021-09-08T00:00:00.000Z</pubDate>
-          <category term="Биология" /><category term="Интересное" />
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tenit.online/images/posts/tardigrades/cover.jpg"/>
-          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://tenit.online/images/posts/tardigrades/cover.jpg"/>
-        </item>
-      
-        <item>
-          <title>Снежинки, которых мы не знаем</title>
-          <description>Интересные факты о снежинках.</description>
-          <link>https://tenit.online/snowflakes/</link>
-          <pubDate>2019-03-17T00:00:00.000Z</pubDate>
-          <category term="Физика" /><category term="Интересное" />
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tenit.online/images/posts/snowflakes/cover.jpg"/>
-          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://tenit.online/images/posts/snowflakes/cover.jpg"/>
         </item>
       
   </channel>
