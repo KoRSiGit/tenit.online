@@ -6,6 +6,26 @@
     <description>I'm a young journalist aiming to build notes that spark joy. I collect notes about fun stuff, and sometimes write it down.</description>
     
         <item>
+          <title>Благоустройство набережной реки Каменки</title>
+          <description>Предложения по созданию зоны отдыха</description>
+          <link>https://tenit.online/kamenka/</link>
+          <pubDate>2022-02-19T00:00:00.000Z</pubDate>
+          <category term="Идеи" /><category term="Экология" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tenit.online/images/posts/kamenka/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://tenit.online/images/posts/kamenka/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>Памятка по уходу за стрижонком</title>
+          <description>Предложения по созданию зоны отдыха</description>
+          <link>https://tenit.online/swift/</link>
+          <pubDate>2022-02-18T00:00:00.000Z</pubDate>
+          <category term="Юннат" /><category term="Биология" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://tenit.online/images/posts/swift/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://tenit.online/images/posts/swift/cover.jpg"/>
+        </item>
+      
+        <item>
           <title>Снежинки, которых мы не знаем</title>
           <description>Интересные факты о снежинках</description>
           <link>https://tenit.online/snowflakes/</link>
